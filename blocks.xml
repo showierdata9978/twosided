@@ -10,7 +10,7 @@ heroku buildpacks:set heroku/php
   <block type="s4d_login" id="|rEc6MK@B`#CAd.0nrou" x="0" y="0">
     <value name="TOKEN">
       <block type="text" id="#-0;+I4Z4Ja.7?i1tEC#">
-        <field name="TEXT">ODk3MzM1NzkyODY5OTkwNDkw.YWULFA.LjC5ZJycTo3DsQEJEMrJETtvvk8</field>
+        <field name="TEXT"> "key" </field>
       </block>
     </value>
   </block>
